@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Archana</h1>
 <h3 align="center">A Passionate Web Developer.</h3>
  
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about JavaScript
+- 🌱 I’m currently learning: MERN Stack
+- 💬 Ask me about: JavaScript and MERN Stack
 - 📫 How to reach me: archu.it11@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
