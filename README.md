@@ -12,7 +12,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Archana636&show_icons=true&locale=en&layout=compact" alt="Archana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Archana&show_icons=true&locale=en" alt="Archana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Archana636&show_icons=true&locale=en" alt="Archana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Archana636&" alt="Archana" /></p>
 
