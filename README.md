@@ -1,6 +1,5 @@
-                                                Hi 👋, I'm Archana
-
-                                        A passionate Web developer from India
+<h1 align="center">Hi 👋, I'm Archana</h1>
+<h3 align="center">A Passionate Web Developer From India.</h3>
  
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on ...
