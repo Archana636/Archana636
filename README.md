@@ -1,6 +1,6 @@
-Hi 👋, I'm Archana
+                                                Hi 👋, I'm Archana
 
- A passionate Web developer from India
+                                        A passionate Web developer from India
  
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on ...
@@ -8,4 +8,7 @@ Hi 👋, I'm Archana
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: archu.it11@gmail.com
 
+
+Languages and Tools:
+c cplusplus css3 html5 java javascript mssql nodejs react
 
